@@ -8,8 +8,8 @@ lorem ipsum
 - 
 ## Installation 📁
 
-    <?php
-        echo "Hello world!";
-    ?>
+    mkdir glib
+    cd glib
+    git clone https://github.com/souyyy/
     
 ## Documentation ✏️
