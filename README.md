@@ -2,14 +2,14 @@
 
 lorem ipsum
 
-## Pré-requis ⚠️
+### Pré-requis ⚠️
 - 
 - 
 - 
-## Installation 📁
+### Installation 📁
 
     mkdir glib
     cd glib
     git clone https://github.com/souyyy/
     
-## Documentation ✏️
+### Documentation ✏️
