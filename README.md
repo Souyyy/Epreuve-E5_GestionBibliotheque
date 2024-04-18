@@ -16,6 +16,9 @@ git clone https://github.com/souyyy/Epreuve-E5_GestionBibliotheque/
 ```
 
 - Modifier la connexion à la base de donnée depuis le fichier **src>DB.java**.
+
+- Importer **E5_JavaBDD.sql** dans votre base de donnée.
+
 - Executer le code MAIN depuis VSC.
   
 ### Documentation ✏️
