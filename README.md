@@ -5,13 +5,13 @@ Ce répertoire est destiné à accueillir le projet de gestion de bibliothèque,
 ### Pré-requis ⚠️
 - Visual Studio Code (latest Version).
 - Les 5 addons Java de Microsoft (ProjectManager, TestRunner, Debbuger, ExtensionPack, Maven for Java) présent depuis VSC.
-- Inclure le contenue de la lib présent dans le repository.
-- Une base de donnée.
+- Inclure MysqlConnector present dans le dossier Lib en tant que librairie.
+- Une base de donnée (Utilisation de Xamp, Mamp ...).
   
 ### Installation 📁
 ```
-mkdir bibliotheque
-cd bibliotheque
+mkdir E5_ProjetJava
+cd E5_ProjetJava
 git clone https://github.com/souyyy/Epreuve-E5_GestionBibliotheque/
 ```
 
